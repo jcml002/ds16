@@ -1,0 +1,35 @@
+CARACTERISTICAS MÁS RELEVANTES:
+Basado en las correlaciones de los grupos y sus caracteristicas con la tasa de deserción(Attritio_rate)
+
+
+VAR5: Con un valor de 0.080, es la que tiene la más alta correlación positiva.
+	Esto significa que este grupo tiene más probabilidad de desertar.
+	
+VAR3: Tiene una correción inversa muy fuerte. con un valor de -0.67.
+	Este grupo tiene menos probabilidad de deserción.
+	
+POST_LEVEL y TRAVEL_RATE: Niveles de puestos más altos y mayor frecuencia de viajes tiene altas probabilidades de deserción, esto quiza se deba al mayor responsabilidad, exigencia, estrés.	
+	
+
+AGE y TIME_OF_SERVICE: tambien presentación una correlación inversa. menos probabiliad de deserción
+	Este grupo de personas mayores y más tiempo en la organización, son los que tienden a permanecer y siendo los jovenes con menos tiempo en la empresa los que tienden a desertar.
+	
+
+
+INTERPRETACION DE GRUPOS
+GRUPO 1 y GRUPO 2: (Veteranos estables) estos grupos tiene una tasa de deserción más baja, tienen más antiguedad, su puesto no es de los más altos(POST_LEVEL) y tampoco tienen mayor frecuencia de viajes(TRAVEL_RATE)
+Esta asegurdado lealtan por la estabilidad y progreso continuo.
+
+GRUPO 8: (Talento joven)Tiene la tasa de deserción más alta, de acuerdo con las variables AGE y TIME_OF_SERVICE, pertecen al grupo de personas jovenes con menos tiempo en la empresa. quiza buscan mayor oporunidades fuera de la empresa.
+
+GRUPO 9: en las variables ( AGE y TIME_OF_SERVICE) muestra que es un grupo joven con poco tiempo en la empresa, sin embargo el crecimiento (GROWTH_RATE) ha sido más acelerado, lo que significa que la oportunidad la encontro dentro de la empres, confirmado la interpretación del grupo 8.
+Hipotesis: a los jovenes no les importa el sueldo inmediato, sino el crecimiento acelerado.
+
+
+CONCLUSIONES
+
+VAR5 esta es una variable anonimizada, pero es determinante en el grado de deserción por lo que se debe investigar más a fondo.
+
+TRAVEL_RATE: ha mostrado que el exceso de viajes está cansando a los empleados. se debería revisar la politica de viajes o tener otra estrategia.
+
+LOS GRUPOS 3,4 Y 8 son los de mayor deserción, las variables (AGE y GROWTH_RATE) muestran una edad entre 25 a 30 años con poco crecimiento laboral, lo que indica que la empresa esta perdiendo talento joven. habría que revisar los planes de carrera profesional dentro de la empresa con el objetive de retener este talento.
